@@ -25,48 +25,75 @@ This is a Streamlit-based intelligent web app that summarizes cutting-edge resea
 ---
 
 ## 📁 Project Structure
-```bash```
+```bash
 AI-Powered-Research-Paper-Summarizer/
 │
-├── app.py # Main Streamlit app
+├── main.py # Main Streamlit app
+├── prompt_generator.py # Generate the prompt
 ├── template.json # Prompt template used by LangChain
-├── logo/
+├── Logo/
 │ ├── background4.png # Background image
 │ └── Research_tool_logo.png # Logo image
 ├── .env # Contains OPENAI_API_KEY
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
+```
 ## 💻 Setup Instructions
 
 ### 1. Clone the Repository
-```bash```
+```bash
 git clone https://github.com/yourusername/AI-Powered-Research-Paper-Summarizer.git
-cd AI-Powered-Research-Paper-Summarizer
 
+cd AI-Powered-Research-Paper-Summarizer
+```
 ### 2. Create Virtual Environment
 ```bash
 python -m venv venv
-venv\Scripts\activate
 
+source venv/bin/activate  # Windows: venv\Scripts\activate
+```
 ### 3. Install Requirements
-
+```bash
 pip install -r requirements.txt
-
+```
 ### 4. Add OpenRouter API Key
-Create a .env file in the root with:
 
+Create a .env file in the root with:
+```bash
 OPENAI_API_KEY=your_openrouter_api_key
+```
 🔑 Get a free key from https://openrouter.ai
 
 ### 5. Run the App
-
+```bash
 streamlit run app.py
+```
 
 🔍 Use Cases
+
 📖 Students exploring AI research
 
 🎓 Researchers reviewing foundational papers
 
 👨‍💻 Developers looking for code-centric explanations
+
+## 🌟 Upcoming Features
+
+📄 PDF Upload & Auto Title Extraction
+
+🧠 Section-wise (abstract, methods, conclusion) summaries
+
+🌐 Integration with arXiv & Semantic Scholar APIs
+
+💬 Chat with paper summary (QA interface)
+
+
+
+## 🤝 Contributors
+
+### 👤 Priya Jha  
+🔗 [LinkedIn](https://www.linkedin.com/in/priya-jha-66a2841a7/)  
+🐙 [GitHub](https://github.com/Priyajha4203)
+
+🙌 Contributions are welcome! Feel free to submit a pull request or raise an issue.
 
