@@ -41,7 +41,7 @@ AI-Powered-Research-Paper-Summarizer/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/AI-Powered-Research-Paper-Summarizer.git
+git clone https://github.com/Priyajha4203/AI-Powered-Research-Paper-Summarizer.git
 
 cd AI-Powered-Research-Paper-Summarizer
 ```
@@ -68,7 +68,12 @@ OPENAI_API_KEY=your_openrouter_api_key
 streamlit run app.py
 ```
 
-🔍 Use Cases
+## 📸 Screenshots
+
+<img width="1889" height="919" alt="image" src="https://github.com/user-attachments/assets/a75d6996-da84-4a1f-af9b-c07c920ce03e" />
+
+
+## 🔍 Use Cases
 
 📖 Students exploring AI research
 
@@ -85,7 +90,6 @@ streamlit run app.py
 🌐 Integration with arXiv & Semantic Scholar APIs
 
 💬 Chat with paper summary (QA interface)
-
 
 
 ## 🤝 Contributors
