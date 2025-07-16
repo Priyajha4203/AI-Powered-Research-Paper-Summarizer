@@ -83,20 +83,15 @@ streamlit run app.py
 ## 🔍 Use Cases
 
 📖 Students exploring AI research
-
 🎓 Researchers reviewing foundational papers
-
 👨‍💻 Developers looking for code-centric explanations
 
 
 ## 🌟 Upcoming Features
 
 📄 PDF Upload & Auto Title Extraction
-
 🧠 Section-wise (abstract, methods, conclusion) summaries
-
 🌐 Integration with arXiv & Semantic Scholar APIs
-
 💬 Chat with paper summary (QA interface)
 
 
