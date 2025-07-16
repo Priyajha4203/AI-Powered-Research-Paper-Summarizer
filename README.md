@@ -25,7 +25,7 @@ This is a Streamlit-based intelligent web app that summarizes cutting-edge resea
 ---
 
 ## 📁 Project Structure
-```bash
+```bash```
 AI-Powered-Research-Paper-Summarizer/
 │
 ├── app.py # Main Streamlit app
@@ -40,7 +40,7 @@ AI-Powered-Research-Paper-Summarizer/
 ## 💻 Setup Instructions
 
 ### 1. Clone the Repository
-```bash
+```bash```
 git clone https://github.com/yourusername/AI-Powered-Research-Paper-Summarizer.git
 cd AI-Powered-Research-Paper-Summarizer
 
