@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-openai
+python-dotenv
+openai
+tiktoken
+pydantic
+requests
+base64io
