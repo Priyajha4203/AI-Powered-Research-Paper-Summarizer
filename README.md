@@ -4,12 +4,17 @@ This is a Streamlit-based intelligent web app that summarizes cutting-edge resea
 
 ## 🚀 Features
 
-- 🔍 **Category-Based Research Paper Selection**
-- 🧠 **LLM-Powered Summarization** via OpenRouter
-- 🎨 **Explanation Styles**: Beginner-Friendly, Technical, Code-Oriented, and Mathematical
-- 📏 **Customizable Summary Length**: Short, Medium, Long
-- 🌐 **Beautiful UI** using Streamlit and CSS-enhanced background/logo
-- 📚 **Preloaded Paper Titles** across AI domains
+🔍 **Category-Based Research Paper Selection**
+
+🧠 **LLM-Powered Summarization** via OpenRouter
+
+🎨 **Explanation Styles**: Beginner-Friendly, Technical, Code-Oriented, and Mathematical
+
+📏 **Customizable Summary Length**: Short, Medium, Long
+
+🌐 **Beautiful UI** using Streamlit and CSS-enhanced background/logo
+
+📚 **Preloaded Paper Titles** across AI domains
 
 ## 🛠️ Tech Stack
 
@@ -83,15 +88,18 @@ streamlit run app.py
 ## 🔍 Use Cases
 
 📖 Students exploring AI research
+
 🎓 Researchers reviewing foundational papers
+
 👨‍💻 Developers looking for code-centric explanations
 
 
 ## 🌟 Upcoming Features
 
 📄 PDF Upload & Auto Title Extraction
+
 🧠 Section-wise (abstract, methods, conclusion) summaries
-🌐 Integration with arXiv & Semantic Scholar APIs
+
 💬 Chat with paper summary (QA interface)
 
 
