@@ -22,7 +22,6 @@ This is a Streamlit-based intelligent web app that summarizes cutting-edge resea
 | 📄 Prompt Mgmt| LangChain PromptTemplate (JSON)    |
 | 🖼️ Design     | Background + Logo (base64 HTML/CSS) |
 
----
 
 ## 📁 Project Structure
 ```bash
