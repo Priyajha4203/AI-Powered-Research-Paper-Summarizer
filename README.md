@@ -69,8 +69,15 @@ streamlit run app.py
 ```
 
 ## 📸 Screenshots
-
+### 🖼️ Home Interface
 <img width="1889" height="919" alt="image" src="https://github.com/user-attachments/assets/a75d6996-da84-4a1f-af9b-c07c920ce03e" />
+
+### 🧠 Category Selection and Style Options
+<img width="1891" height="923" alt="image" src="https://github.com/user-attachments/assets/e51dbf73-cf5a-42a7-bcd6-c4e6d8ace0d9" />
+<img width="1890" height="917" alt="image" src="https://github.com/user-attachments/assets/dec1ea9b-7e0c-4ef4-acc9-7d9d6a0ca4f8" />
+
+### 📄 Summary Output
+<img width="1902" height="921" alt="image" src="https://github.com/user-attachments/assets/37eb1193-32b6-4e1b-ac80-786ffc8ee672" />
 
 
 ## 🔍 Use Cases
@@ -80,6 +87,7 @@ streamlit run app.py
 🎓 Researchers reviewing foundational papers
 
 👨‍💻 Developers looking for code-centric explanations
+
 
 ## 🌟 Upcoming Features
 
