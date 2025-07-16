@@ -40,7 +40,7 @@ AI-Powered-Research-Paper-Summarizer/
 ## 💻 Setup Instructions
 
 ### 1. Clone the Repository
-
+```bash
 git clone https://github.com/yourusername/AI-Powered-Research-Paper-Summarizer.git
 cd AI-Powered-Research-Paper-Summarizer
 
